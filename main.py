@@ -9,7 +9,7 @@ from pywifi import const
 
 # 使用方法：
 account = "114514"  # 在双引号内输入学工号
-password = "1919810"  # 在双引号内输入密码，磨人身份证后六位
+password = "1919810"  # 在双引号内输入密码，默认身份证后六位
 isp = "unicom"  # 在双引号内输入运营商，联通为unicom，电信为telcom，移动忘了，留空为校园内网
 # 截止到上面，下面不用动
 
